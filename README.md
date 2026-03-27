@@ -1,37 +1,37 @@
-# 👋 Hi, I'm David (ne0lines)
+# 👋 Hi, I'm David aka. ne0lines
 
-Frontend developer in the making with a strong bias for building real products — not just tutorials.
+![Profile views](https://komarev.com/ghpvc/?username=ne0lines&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/ne0lines?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ne0lines?affiliations=OWNER&style=social)
 
 ## 🚀 What I'm doing
-- Building SaaS products (currently focused on job tracking & dog show platforms)
+- Building SaaS products
 - Working with React / Next.js / Tailwind
-- Using AI as a **force multiplier** in development (not the product itself)
+- Using AI as a **force multiplier** in development
 
 ## 🧠 How I think
-- Ship fast, iterate faster
-- Solve real problems > build "portfolio fluff"
-- Automate everything that can be automated
-- If it can scale — it should
+- Ship fast, iterate faster  
+- Solve real problems > portfolio fluff  
+- Automate everything  
+- Build for scale  
 
 ## 🛠 Tech stack
-- **Frontend:** React, Next.js, Tailwind
-- **Backend:** Node.js, PHP (when needed)
-- **Database:** MariaDB
-- **Tools:** Git, Linear, OpenClaw, Docker
 
-## 🔥 Current projects
-- 🧭 Job tracking app (helping people land jobs faster)
-- 🐕 Dog show ranking platform (Årets Hund)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
-## 🎯 Focus right now
-Turning ideas into products that:
-- Solve actual user problems
-- Can scale
-- Can generate revenue
-
-## 📫 Reach me
-- GitHub: https://github.com/ne0lines
+## 🎯 Focus
+Building products that:
+- Solve real problems  
+- Scale  
+- Generate revenue  
 
 ---
 
-> "Build things people actually need — everything else is noise."
+> "Build things people actually need - everything else is noise."
