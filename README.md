@@ -18,13 +18,13 @@
   <a href="https://fiat.com" target="_blank"><img alt="Fiat Ducato RV Owner" src="https://img.shields.io/badge/Fiat%20Ducato%20RV%20Owner-941711?labelColor=941711&logo=fiat" /></a>
   <a href="https://www.dji.com" target="_blank"><img alt="DJI Pilot" src="https://img.shields.io/badge/DJI%20Pilot-000?labelColor=000000&logo=dji" /></a>
   
-  <a href="https://counter-strike.net" target="_blank"><img alt="Counter-Strike Passionate" src="https://img.shields.io/badge/Counter--Strike%20Passionate-ff6900?labelColor=ff6900&logo=counterstrike&logoColor=FFF" /></a>
-  <a href="https://faceit.com" target="_blank"><img alt="Faceit Player" src="https://img.shields.io/badge/Faceit%20Player-FF5500?labelColor=FF5500&logo=faceit&logoColor=FFFFFF" /></a>
+  <a href="https://steamcommunity.com/id/ne0lines" target="_blank"><img alt="Counter-Strike Passionate" src="https://img.shields.io/badge/Counter--Strike%20Passionate-ff6900?labelColor=ff6900&logo=counterstrike&logoColor=FFF" /></a>
+  <a href="https://www.faceit.com/en/players/ne0lines" target="_blank"><img alt="Faceit Player" src="https://img.shields.io/badge/Faceit%20Player-FF5500?labelColor=FF5500&logo=faceit&logoColor=FFFFFF" /></a>
   
-  <a href="https://discord.com" target="_blank"><img alt="Discord User" src="https://img.shields.io/badge/Discord%20User-5865F2?logo=discord&labelColor=5865F2&logoColor=FFFFFF" /></a>
-  <a href="https://x.com" target="_blank"><img alt="X Dweller" src="https://img.shields.io/badge/X%20Dweller-000000?labelColor=000000&logo=x" /></a>
-  <a href="https://facebook.com" target="_blank"><img alt="Facebook Original" src="https://img.shields.io/badge/Facebook%20Original-0866FF?labelColor=0866FF&logo=facebook" /></a>
-  <a href="https://facebook.com" target="_blank"><img alt="Messenger Junkie" src="https://img.shields.io/badge/Messenger%20Junkie-0866FF?labelColor=0866FF&logo=messenger" /></a>
+  <a href="https://discord.com/users/693478508965527573" target="_blank"><img alt="Discord User" src="https://img.shields.io/badge/Discord%20User-5865F2?logo=discord&labelColor=5865F2&logoColor=FFFFFF" /></a>
+  <a href="https://x.com/ne0lines" target="_blank"><img alt="X Dweller" src="https://img.shields.io/badge/X%20Dweller-000000?labelColor=000000&logo=x" /></a>
+  <a href="https://facebook.com/hermanssondavid" target="_blank"><img alt="Facebook Original" src="https://img.shields.io/badge/Facebook%20Original-0866FF?labelColor=0866FF&logo=facebook" /></a>
+  <a href="https://m.me/hermanssondavid" target="_blank"><img alt="Messenger Junkie" src="https://img.shields.io/badge/Messenger%20Junkie-0866FF?labelColor=0866FF&logo=messenger" /></a>
   <a href="https://www.google.com/chrome" target="_blank"><img alt="Google Chrome Veteran" src="https://img.shields.io/badge/Google%20Chrome%20Veteran-4285F4?labelColor=4285F4&logo=googlechrome&logoColor=FFFFFF" /></a>
   <a href="https://figma.com" target="_blank"><img alt="Figma Generalist" src="https://img.shields.io/badge/Figma%20Generalist-F24E1E?labelColor=F24E1E&logo=figma&logoColor=FFFFFF" /></a>
   <a href="https://darkreader.org" target="_blank"><img alt="Darkreader User" src="https://img.shields.io/badge/Darkreader%20User-141E24?labelColor=141E24&logo=darkreader" /></a>
@@ -41,7 +41,7 @@
   <a href="https://anycubic.com" target="_blank"><img alt="Anycubic Printer" src="https://img.shields.io/badge/Anycubic%20Printer-476695?labelColor=476695&logo=anycubic" /></a>
   <a href="https://obsproject.com" target="_blank"><img alt="OBS Studio Specialist" src="https://img.shields.io/badge/OBS%20Studio%20Specialist-4285F4?labelColor=4285F4&logo=obsstudio" /></a>
   
-  <a href="https://tiktok.com" target="_blank"><img alt="TikTok Survivor" src="https://img.shields.io/badge/TikTok%20Survivor-000000?labelColor=000000&logo=tiktok" /></a>
+  <a href="https://tiktok.com/" target="_blank"><img alt="TikTok Survivor" src="https://img.shields.io/badge/TikTok%20Survivor-000000?labelColor=000000&logo=tiktok" /></a>
   <a href="https://twitch.tv" target="_blank"><img alt="Twitch Affiliate" src="https://img.shields.io/badge/Twitch%20Affiliate-9146FF?labelColor=9146FF&logo=twitch&logoColor=fff" /></a>
   <a href="https://netflix.com" target="_blank"><img alt="Netflix Lurker" src="https://img.shields.io/badge/Netflix%20Lurker-E50914?labelColor=E50914&logo=netflix" /></a>
   <a href="https://hbomax.com" target="_blank"><img alt="HBO Max Consumer" src="https://img.shields.io/badge/HBO%20Max%20Consumer-000?labelColor=000000&logo=hbomax" /></a>
