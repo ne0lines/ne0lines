@@ -108,20 +108,3 @@ I care about simple, scalable solutions and steady progress. I build things that
   <img alt="" src="" />
   <img alt="" src="" />
 </p>
-
-## 🚀 What I'm doing
-- Building SaaS products
-- Working with React / Next.js / Tailwind
-- Using AI as a **force multiplier** in development
-
-## 🧠 How I think
-- Ship fast, iterate faster  
-- Solve real problems > portfolio fluff  
-- Automate everything  
-- Build for scale  
-
-## 🎯 Focus
-Building products that:
-- Solve real problems  
-- Scale  
-- Generate revenue  
