@@ -28,7 +28,7 @@
   <a href="https://cloudflare.com" target="_blank"><img alt="Cloudflare Regular" src="https://img.shields.io/badge/Cloudflare%20Regular-F38020?labelColor=F38020&logo=cloudflare&logoColor=ffffff" /></a>
   <a href="https://home-assistant.io" target="_blank"><img alt="Home Assistant User" src="https://img.shields.io/badge/Home%20Assistant%20User-18BCF2?labelColor=18BCF2&logo=homeassistant&logoColor=ffffff" /></a>
   <a href="https://octoprint.org" target="_blank"><img alt="Octoprint Maker" src="https://img.shields.io/badge/OctoPrint%20Maker-13C100?labelColor=13C100&logo=octoprint&logoColor=fff" /></a>
-  <a href="https://linear.com" target="_blank"><img alt="Linear Nerd" src="https://img.shields.io/badge/Linear%20Nerd-5E6AD2?labelColor=5E6AD2&logo=linear&logoColor=FFFFFF" /></a>
+  <a href="https://linearapp.com" target="_blank"><img alt="Linear Nerd" src="https://img.shields.io/badge/Linear%20Nerd-5E6AD2?labelColor=5E6AD2&logo=linear&logoColor=FFFFFF" /></a>
   <a href="https://stackoverflow.com" target="_blank"><img alt="Stack Overflow Survivor" src="https://img.shields.io/badge/Stack%20Overflow%20Survivor-F58025?labelColor=F58025&logo=stackoverflow&logoColor=FFFFFF" /></a>
   <a href="https://reddit.com" target="_blank"><img alt="Reddit Goblin" src="https://img.shields.io/badge/Reddit%20Goblin-FF4500?labelColor=FF4500&logo=reddit&logoColor=FFFFFF" /></a>
   <a href="https://pluralsight.com" target="_blank"><img alt="Pluralsight Learner" src="https://img.shields.io/badge/Pluralsight%20Learner-FF0D66?labelColor=FF0D66&logo=pluralsight&logoColor=fff" /></a>
