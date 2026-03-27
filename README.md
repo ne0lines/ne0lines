@@ -8,7 +8,7 @@
 <p>
   <img alt="Adidas Enjoyer" src="https://img.shields.io/badge/Adidas%20Enjoyer-000000?labelColor=000000&logo=adidas" />
   <img alt="Volvo V90 Driver" src="https://img.shields.io/badge/Volvo%20V90%20Driver-003057?labelColor=003057&logo=volvo" />
-  <img alt="McDonald's Eater" src="https://img.shields.io/badge/McDonald's%20Eater-FF0000?labelColor=FF0000&logo=mcdonalds" />
+  <img alt="Occational McDonald's Eater" src="https://img.shields.io/badge/Occational%20McDonald's%20Eater-FF0000?labelColor=FF0000&logo=mcdonalds" />
   <img alt="Intermittent Red Bull Drinker" src="https://img.shields.io/badge/Intermittent%20Red%20Bull%20Drinker-DB0A40?labelColor=DB0A40&logo=redbull" />
   <img alt="Fiat Ducato RV Owner" src="https://img.shields.io/badge/Fiat%20Ducato%20RV%20Owner-941711?labelColor=941711&logo=fiat" />
   <img alt="DJI Pilot" src="https://img.shields.io/badge/DJI%20Pilot-000?labelColor=000000&logo=dji" />
