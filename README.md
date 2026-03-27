@@ -1,4 +1,15 @@
-# 👋 Hi, I'm David aka. "ne0lines"
+<img src="https://i.giphy.com/jp7jSyjNNz2ansuOS8.webp" align="right" />
+
+### Hi, I'm David aka `ne0lines`
+
+I focus on building things that actually get used. I move fast, cut through unnecessary complexity, and prioritize execution and planning. Using <a href="https://linear.app" target="_blank">Linear</a> as my backbone, I structure ideas, break them down into actionable work, and move from concept to finished product as quickly as possible.
+
+I've been developing websites and web systems since 2001, starting out with <a href="https://en.wikipedia.org/wiki/Macromedia" target="_blank">Dreamweaver</a>, learning by doing and building from scratch. Today, I use <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> as a tool to work faster and smarter. It helps me remove friction, automate repetitive work, and accelerate development without getting stuck in details that don't create value.
+
+I care about simple, scalable solutions and steady progress. I build things that are easy to maintain and grow without unnecessary complexity, focusing on momentum over perfection.
+
+*Ship, learn, improve, repeat.*
+
 
 <p>
   <a href="https://facebook.com/hermanssondavid" target="_blank"><img alt="David Hermansson" src="https://img.shields.io/badge/David%20Hermansson-0866FF?logo=facebook&logoColor=fff" /></a>
