@@ -16,7 +16,7 @@
 - Build for scale  
 
 ## 🛠 Tech stack
-
+![Codex](https://img.shields.io/badge/Codex-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss)
