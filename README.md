@@ -1,8 +1,12 @@
-# 👋 Hi, I'm David aka. ne0lines
+# 👋 Hi, I'm David aka. "ne0lines"
 
-![Profile views](https://komarev.com/ghpvc/?username=ne0lines&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/ne0lines?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/ne0lines?affiliations=OWNER&style=social)
+<p>
+  <a href="https://facebook.com/hermanssondavid" target="_blank"><img alt="David Hermansson" src="https://img.shields.io/badge/David%20Hermansson-0866FF?logo=facebook&logoColor=fff" /></a>
+  <a href="https://instagram.com/ne0lines" target="_blank"><img alt="@ne0lines" src="https://img.shields.io/badge/ne0lines-FF0069?logo=instagram&logoColor=fff" /></a>
+  <a href="https://tiktok.com/@ne0lines" target="_blank"><img alt="@ne0lines" src="https://img.shields.io/badge/%40ne0lines-000000?logo=tiktok&logoColor=fff" /></a>
+  <a href="https://x.com/ne0lines" target="_blank"><img alt="@ne0lines" src="https://img.shields.io/badge/%40ne0lines-000000?logo=x&logoColor=fff" /></a>
+  <a href="mailto:hello@ne0lines.xyz" target="_blank"><img alt="hello@ne0lines.xyz" src="https://img.shields.io/badge/hello%40ne0lines.xyz-EA4335?logo=gmail&logoColor=fff" /></a>
+</p>
 
 ## 💯 Interest stack
 <p>
