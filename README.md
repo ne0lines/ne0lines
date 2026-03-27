@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ne0lines?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/ne0lines?affiliations=OWNER&style=social)
 
-## 🛠 Interest stack
+## 💯 Interest stack
 <p>
   <img alt="Counter-Strike Passionate" src="https://img.shields.io/badge/Counter--Strike%20Passionate-ff6900?labelColor=ff6900&logo=counterstrike&logoColor=FFF" />
   <img alt="Faceit Player" src="https://img.shields.io/badge/Faceit%20Player-FF5500?labelColor=FF5500&logo=faceit&logoColor=FFFFFF" />
