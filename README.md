@@ -31,7 +31,3 @@ Building products that:
 - Solve real problems  
 - Scale  
 - Generate revenue  
-
----
-
-> "Build things people actually need - everything else is noise."
