@@ -4,7 +4,7 @@
 
 I focus on building things that actually get used. I move fast, cut through unnecessary complexity, and prioritize execution and planning. Using <a href="https://linear.app" target="_blank">Linear</a> as my backbone, I structure ideas, break them down into actionable work, and move from concept to finished product as quickly as possible.
 
-I've been developing websites and web systems since 2001, starting out with <a href="https://en.wikipedia.org/wiki/Macromedia" target="_blank">Dreamweaver</a>, learning by doing and building from scratch. Today, I use <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> as a tool to work faster and smarter. It helps me remove friction, automate repetitive work, and accelerate development without getting stuck in details that don't create value.
+I've been developing websites and web systems since 2001, starting out using the WYSIWYG-editor <a href="https://en.wikipedia.org/wiki/Microsoft_FrontPage" target="_blank">Microsoft FrontPage</a> but moving on to using <a href="https://en.wikipedia.org/wiki/Adobe_Dreamweaver" target="_blank">Dreamweaver</a> within about a year, learning by doing and building from scratch. Today, I mostly use <a href="https://openai.com/codex/" target="_blank">OpenAI Codex</a> as my prefered tool to work faster and smarter. It helps me remove friction, automate repetitive work, and accelerate development without getting stuck in details that don't create value.
 
 I care about simple, scalable solutions and steady progress. I build things that are easy to maintain and grow without unnecessary complexity, focusing on momentum over perfection.
 
